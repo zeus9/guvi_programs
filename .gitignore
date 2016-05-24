@@ -1,3 +1,5 @@
-# executable
-duplicate_nos/a.out 
+# executables
 *.class
+a.out
+
+.*
